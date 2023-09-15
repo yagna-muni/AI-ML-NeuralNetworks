@@ -1,0 +1,20 @@
+C:\Users\yagna\AppData\Local\Programs\Python\Python39\python.exe "C:\Users\yagna\Drive Y\UMB\Course Work\CS Computer Vision\A4\A4_Cb.py" 
+
+Image URL: https://png.pngitem.com/pimgs/s/534-5342414_thumb-image-japan-airlines-plane-png-transparent-png.png
+Output activations: [[0.232 0.085 0.085 0.085 0.085 0.085 0.085 0.085 0.085 0.085]]
+Predicted class: airplane
+
+Image URL: https://cdn.pixabay.com/photo/2017/09/01/00/15/png-2702691__480.png
+Output activations: [[0.085 0.085 0.085 0.232 0.085 0.085 0.085 0.085 0.085 0.085]]
+Predicted class: cat
+
+Image URL: https://cdn.pixabay.com/photo/2016/03/02/13/59/bird-1232416__480.png
+Output activations: [[0.085 0.085 0.232 0.085 0.085 0.085 0.085 0.085 0.085 0.085]]
+Predicted class: bird
+
+Image URL: https://w7.pngwing.com/pngs/414/106/png-transparent-enzo-ferrari-sports-car-luxury-vehicle-ferrari-compact-car-car-performance-car.png
+Output activations: [[0.085 0.232 0.085 0.085 0.085 0.085 0.085 0.085 0.085 0.085]]
+Predicted class: automobile
+
+
+Process finished with exit code 0
